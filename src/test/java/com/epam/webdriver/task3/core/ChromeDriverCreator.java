@@ -12,7 +12,7 @@ import java.io.IOException;
  */
 public class ChromeDriverCreator extends WebDriverCreator{
 
-    public static final String PATH_TO_CHROMEDRIVER = "d:\\drivers\\chromedriver.exe";
+    public static final String PATH_TO_CHROMEDRIVER = "C:\\Java\\chromedriver.exe";
 
     @Override
     public WebDriver factoryMethod() {
